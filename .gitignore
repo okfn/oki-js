@@ -1,3 +1,6 @@
+# IDE settings folders
+.idea/
+
 # Logs
 logs
 *.log
